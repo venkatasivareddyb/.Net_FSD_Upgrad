@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Healthy Life Clinic</title>
+  <link rel="stylesheet" href="task1.css">
+</head>
+<body>
+
+  <header>
+    <h1>Healthy Life Clinic</h1>
+    <nav>
+      <ul>
+        <li><a href="#banner">Home</a></li>
+        <li><a href="#services">Services</a></li>
+        <li><a href="#doctor">Doctor</a></li>
+        <li><a href="#contact">Contact</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <div style="background-color:red; color:white; text-align:center; padding:10px;">
+    🚨 Emergency Alert: COVID-19 safety protocols in effect. Masks required.
+  </div>
+
+  <section id="banner">
+    <h2>Your Health, Our Priority</h2>
+    <p>Providing trusted care for your family.</p>
+  </section>
+
+  <section id="services">
+    <h2>Our Services</h2>
+    <div class="service-cards">
+      <div class="card">
+        <h3>General Checkup</h3>
+        <p>Comprehensive health assessments for all ages.</p>
+      </div>
+      <div class="card">
+        <h3>Pediatrics</h3>
+        <p>Specialized care for infants, children, and teens.</p>
+      </div>
+      <div class="card">
+        <h3>Diagnostics</h3>
+        <p>Advanced lab and imaging services for accurate results.</p>
+      </div>
+    </div>
+  </section>
+
+  <section id="doctor">
+    <style>
+      #doctor {
+        background-color: #f0f8ff;
+        padding: 20px;
+        border-left: 5px solid #0077b6;
+      }
+      #doctor h2 {
+        color: #0077b6;
+      }
+      #doctor .profile {
+        display: flex;
+        align-items: center;
+        gap: 20px;
+      }
+      #doctor img {
+        border-radius: 50%;
+        width: 120px;
+        height: 120px;
+      }
+    </style>
+    <h2>Meet Our Doctor</h2>
+    <div class="profile">
+      <img src="doctor.jpg" alt="Doctor Profile">
+      <div>
+        <h3>Dr. Priya Sharma</h3>
+        <p>MBBS, MD – 15 years of experience in family medicine.</p>
+      </div>
+    </div>
+  </section>
+  <section id="contact">
+    <h2>Contact Us</h2>
+    <form>
+      <label for="name">Name:</label>
+      <input type="text" id="name" name="name" required>
+
+      <label for="email">Email:</label>
+      <input type="email" id="email" name="email" required>
+
+      <label for="message">Message:</label>
+      <textarea id="message" name="message" rows="4" required></textarea>
+
+      <button type="submit">Send</button>
+    </form>
+  </section>
+
+  <footer>
+    <p>&copy; 2026 Healthy Life Clinic | All Rights Reserved</p>
+  </footer>
+
+</body>
+</html>
