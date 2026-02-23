@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Counter App</title>
+</head>
+<body>
+  <h2>Counter Application</h2>
+  <p id="counterValue">0</p>
+  <button onclick="incrementCounter(1)">Increment</button>
+  <button onclick="resetCounter()">Reset</button>
+
+  <script>
+    var counter = 0; // Global variable
+
+    function incrementCounter(step) {
+      counter += step;
+      document.getElementById("counterValue").innerText = counter;
+    }
+
+    function resetCounter() {
+      counter = 0;
+      document.getElementById("counterValue").innerText = counter;
+    }
+  </script>
+</body>
+</html>

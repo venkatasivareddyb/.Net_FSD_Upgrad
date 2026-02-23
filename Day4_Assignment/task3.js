@@ -1,7 +1,3 @@
-<!DOCTYPE html>
-<html>
-<body>
-<script>
 let amount = 4500;
 let discount = 0;
 if (amount >= 5000) {
@@ -12,6 +8,3 @@ if (amount >= 5000) {
 let finalAmount = amount - discount;
 console.log("Discount: " + discount);
 console.log("Final Amount: " + finalAmount);
-</script>
-</body>
-</html>
