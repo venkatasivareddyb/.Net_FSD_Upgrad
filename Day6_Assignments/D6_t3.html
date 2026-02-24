@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Location-Based Weather Logger</title>
+</head>
+<body onload="loadHistory()">
+  <h2>Location Logger</h2>
+  <button onclick="getLocation()">Get My Location</button>
+  <p id="status"></p>
+  <p id="lat"></p>
+  <p id="lon"></p>
+
+  <h3>Location History (Last 5)</h3>
+  <ul id="historyList"></ul>
+
+  <script>
+    function getLocation() {
+      if (navigator.geolocation) {
+        navigator.geolocation.getCurrentPosition(showPosition, showError, {
+          timeout: 10000
+        });
+      } else {
+        document.getElementById("status").innerText = "Geolocation is not supported by this browser.";
+      }
+    }
+    function showPosition(position) {
+      let latitude = position.coords.latitude;
+      let longitude = position.coords.longitude;
+
+      document.getElementById("status").innerText = "Location fetched successfully!";
+      document.getElementById("lat").innerText = "Latitude: " + latitude;
+      document.getElementById("lon").innerText = "Longitude: " + longitude;
+      let entry = { lat: latitude, lon: longitude, time: new Date().toLocaleString() };
+
+      let history = JSON.parse(localStorage.getItem("locationHistory")) || [];
+      history.unshift(entry); 
+      if (history.length > 5) history.pop();
+
+      localStorage.setItem("locationHistory", JSON.stringify(history));
+
+      displayHistory();
+    }
+
+
+    function showError(error) {
+      switch(error.code) {
+        case error.PERMISSION_DENIED:
+          document.getElementById("status").innerText = "User denied the request for Geolocation.";
+          break;
+        case error.POSITION_UNAVAILABLE:
+          document.getElementById("status").innerText = "Location information is unavailable.";
+          break;
+        case error.TIMEOUT:
+          document.getElementById("status").innerText = "The request to get user location timed out.";
+          break;
+        default:
+          document.getElementById("status").innerText = "An unknown error occurred.";
+          break;
+      }
+    }
+
+    
+    function loadHistory() {
+      displayHistory();
+    }
+    function displayHistory() {
+      let history = JSON.parse(localStorage.getItem("locationHistory")) || [];
+      let list = document.getElementById("historyList");
+      list.innerHTML = "";
+
+      history.forEach(entry => {
+        let li = document.createElement("li");
+        li.innerText = `Lat: ${entry.lat}, Lon: ${entry.lon}, Time: ${entry.time}`;
+        list.appendChild(li);
+      });
+    }
+  </script>
+</body>
+</html>
