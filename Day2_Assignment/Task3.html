@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>E-Learning Course Registration</title>
+</head>
+<body>
+    <header>
+        <h1>Certification Program Registration</h1>
+    </header>
+
+    <section>
+        <form>
+            <label for="course">Select Course:</label>
+            <input list="courses" id="course" name="course" required>
+            <datalist id="courses">
+                <option value="Data Science">
+                <option value="Web Development">
+                <option value="Cyber Security">
+            </datalist><br><br>
+
+            <label for="batch">Batch Month:</label>
+            <input type="month" id="batch" name="batch" required><br><br>
+
+            <label for="session">Preferred Session Time:</label>
+            <input type="time" id="session" name="session" required><br><br>
+
+            <label for="skill">Skill Rating:</label>
+            <input type="range" id="skill" name="skill" min="1" max="10"><br><br>
+
+            <label for="progress">Enrollment Progress:</label>
+            <progress id="progress" value="40" max="100"></progress><br><br>
+
+            <video controls width="400">
+                <source src="intro.mp4" type="video/mp4">
+                <track src="subtitles.vtt" kind="subtitles" srclang="en" label="English">
+            </video><br><br>
+
+            <input type="submit" value="Register">
+        </form>
+    </section>
+</body>
+</html>
