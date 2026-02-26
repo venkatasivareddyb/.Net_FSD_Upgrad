@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Travel Booking</title>
+</head>
+<body>
+    <header>
+        <h1>Travel & Tourism Booking</h1>
+    </header>
+
+    <section>
+        <form>
+            <label for="source">Source City:</label>
+            <input list="cities" id="source" name="source" required>
+            <label for="destination">Destination City:</label>
+            <input list="cities" id="destination" name="destination" required>
+            <datalist id="cities">
+                <option value="Bengaluru">
+                <option value="Delhi">
+                <option value="Mumbai">
+            </datalist><br><br>
+
+            <label for="depart">Travel Date:</label>
+            <input type="date" id="depart" name="depart" required><br><br>
+
+            <label for="return">Return Date:</label>
+            <input type="date" id="return" name="return" required><br><br>
+
+            <label for="class">Travel Class:</label>
+            <select id="class" name="class">
+                <option>Economy</option>
+                <option>Business</option>
+                <option>First Class</option>
+            </select><br><br>
+
+            <label for="airline">Preferred Airline:</label>
+            <input list="airlines" id="airline" name="airline">
+            <datalist id="airlines">
+                <option value="Indigo">
+                <option value="Air India">
+                <option value="Vistara">
+            </datalist><br><br>
+
+            <label for="passengers">Number of Passengers:</label>
+            <input type="number" id="passengers" name="passengers" min="1" max="10" required><br><br>
+
+            <label for="meal">Meal Preference Color Tag:</label>
+            <input type="color" id="meal" name="meal"><br><br>
+
+            <label for="notes">Special Assistance Notes:</label>
+            <textarea id="notes" placeholder="Enter assistance details here..."></textarea><br><br>
+
+            <video controls width="400">
+                <source src="promo.mp4" type="video/mp4">
+            </video><br><br>
+
+            <audio controls loop>
+                <source src="theme.mp3" type="audio/mpeg">
+            </audio><br><br>
+
+            <input type="submit" value="Book Now">
+        </form>
+    </section>
+</body>
+</html>
