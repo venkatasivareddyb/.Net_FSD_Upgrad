@@ -1,0 +1,67 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+}
+
+header {
+    background: #004080;
+    color: #fff;
+    padding: 15px;
+}
+
+aside {
+    float: left;
+    width: 20%;
+    background: #f4f4f4;
+    padding: 10px;
+}
+
+main {
+    margin-left: 22%;
+    padding: 20px;
+}
+
+.summary {
+    display: flex;
+    gap: 15px;
+}
+
+.card {
+    border: 1px solid #ddd;
+    padding: 15px;
+    margin: 10px;
+    border-radius: 8px;
+    box-sizing: border-box;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+table, th, td {
+    border: 1px solid #ddd;
+    padding: 10px;
+}
+
+tr:hover {
+    background: #f9f9f9;
+}
+
+.debit {
+    color: red;
+}
+
+.credit {
+    color: green;
+}
+
+button {
+    padding: 8px 12px;
+    cursor: pointer;
+}
+
+button:active {
+    background: #004080;
+    color: #fff;
+}
