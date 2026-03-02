@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>E-Commerce Landing Page</title>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
+  <style>
+    :root {
+      --bs-primary: #0d6efd;
+      --bs-secondary: #6c757d;
+      --bs-dark: #212529;
+    }
+  </style>
+</head>
+<body>
+
+  <nav class="navbar navbar-dark bg-dark fixed-top">
+    <div class="container-fluid">
+      <a class="navbar-brand" href="#">ShopEase</a>
+      <button class="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasMenu">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+    </div>
+  </nav>
+
+  <div class="offcanvas offcanvas-end text-bg-dark" id="offcanvasMenu">
+    <div class="offcanvas-header">
+      <h5 class="offcanvas-title">Menu</h5>
+      <button type="button" class="btn-close btn-close-white" data-bs-dismiss="offcanvas"></button>
+    </div>
+    <div class="offcanvas-body">
+      <ul class="nav flex-column">
+        <li class="nav-item"><a class="nav-link text-light" href="#">Home</a></li>
+        <li class="nav-item"><a class="nav-link text-light" href="#featured">Featured</a></li>
+        <li class="nav-item"><a class="nav-link text-light" href="#newsletter">Newsletter</a></li>
+      </ul>
+    </div>
+  </div>
+
+  <section class="bg-primary text-light text-center py-5 mt-5">
+    <div class="container">
+      <h1 class="fw-bold">Welcome to ShopEase</h1>
+      <p class="lead">Your one-stop destination for electronics and more</p>
+      <a href="#featured" class="btn btn-light btn-lg mt-3">Shop Now</a>
+    </div>
+  </section>
+
+  <section id="featured" class="py-5">
+    <div class="container">
+      <h2 class="text-center mb-4">Featured Products</h2>
+      <div id="productCarousel" class="carousel slide" data-bs-ride="carousel">
+        <div class="carousel-inner">
+          <div class="carousel-item active text-center">
+            <img src="image1.png" class="d-block mx-auto" alt="Product 1">
+            <div class="carousel-caption d-none d-md-block">
+              <h5>Smartphone</h5>
+              <p>Latest technology at your fingertips</p>
+            </div>
+          </div>
+          <div class="carousel-item text-center">
+            <img src="image2.png" class="d-block mx-auto" alt="Product 2">
+            <div class="carousel-caption d-none d-md-block">
+              <h5>Laptop</h5>
+              <p>Powerful performance for work and play</p>
+            </div>
+          </div>
+          <div class="carousel-item text-center">
+            <img src="image3.png" class="d-block mx-auto" alt="Product 3">
+            <div class="carousel-caption d-none d-md-block">
+              <h5>Headphones</h5>
+              <p>Immersive sound experience</p>
+            </div>
+          </div>
+        </div>
+        <button class="carousel-control-prev" type="button" data-bs-target="#productCarousel" data-bs-slide="prev">
+          <span class="carousel-control-prev-icon"></span>
+        </button>
+        <button class="carousel-control-next" type="button" data-bs-target="#productCarousel" data-bs-slide="next">
+          <span class="carousel-control-next-icon"></span>
+        </button>
+      </div>
+    </div>
+  </section>
+
+  <section id="newsletter" class="bg-light py-5">
+    <div class="container">
+      <h2 class="text-center mb-4">Subscribe to Our Newsletter</h2>
+      <div class="row justify-content-center">
+        <div class="col-md-6">
+          <form class="needs-validation" novalidate>
+            <div class="input-group">
+              <input type="email" class="form-control" placeholder="Enter your email" required>
+              <button class="btn btn-primary" type="submit">Subscribe</button>
+              <div class="invalid-feedback">Please enter a valid email.</div>
+            </div>
+          </form>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <footer class="bg-dark text-light text-center py-3">
+    <small>&copy; 2026 ShopEase. All rights reserved.</small>
+  </footer>
+
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
+  <script>
+    const forms = document.querySelectorAll('.needs-validation');
+    Array.from(forms).forEach(form => {
+      form.addEventListener('submit', event => {
+        if (!form.checkValidity()) {
+          event.preventDefault();
+          event.stopPropagation();
+        }
+        form.classList.add('was-validated');
+      }, false);
+    });
+  </script>
+</body>
+</html>
