@@ -1,0 +1,15 @@
+D:\My Folders\Upgrad\.Net_FSD_Upgrad\Assignment1_Csharp\bin\Debug\net10.0\Assignment1_Csharp.exe
+D:\My Folders\Upgrad\.Net_FSD_Upgrad\Assignment1_Csharp\bin\Debug\net10.0\Assignment1_Csharp.deps.json
+D:\My Folders\Upgrad\.Net_FSD_Upgrad\Assignment1_Csharp\bin\Debug\net10.0\Assignment1_Csharp.runtimeconfig.json
+D:\My Folders\Upgrad\.Net_FSD_Upgrad\Assignment1_Csharp\bin\Debug\net10.0\Assignment1_Csharp.dll
+D:\My Folders\Upgrad\.Net_FSD_Upgrad\Assignment1_Csharp\bin\Debug\net10.0\Assignment1_Csharp.pdb
+D:\My Folders\Upgrad\.Net_FSD_Upgrad\Assignment1_Csharp\obj\Debug\net10.0\Assignment1_Csharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Folders\Upgrad\.Net_FSD_Upgrad\Assignment1_Csharp\obj\Debug\net10.0\Assignment1_Csharp.AssemblyInfoInputs.cache
+D:\My Folders\Upgrad\.Net_FSD_Upgrad\Assignment1_Csharp\obj\Debug\net10.0\Assignment1_Csharp.AssemblyInfo.cs
+D:\My Folders\Upgrad\.Net_FSD_Upgrad\Assignment1_Csharp\obj\Debug\net10.0\Assignment1_Csharp.csproj.CoreCompileInputs.cache
+D:\My Folders\Upgrad\.Net_FSD_Upgrad\Assignment1_Csharp\obj\Debug\net10.0\Assignment1_Csharp.sourcelink.json
+D:\My Folders\Upgrad\.Net_FSD_Upgrad\Assignment1_Csharp\obj\Debug\net10.0\Assignment1_Csharp.dll
+D:\My Folders\Upgrad\.Net_FSD_Upgrad\Assignment1_Csharp\obj\Debug\net10.0\refint\Assignment1_Csharp.dll
+D:\My Folders\Upgrad\.Net_FSD_Upgrad\Assignment1_Csharp\obj\Debug\net10.0\Assignment1_Csharp.pdb
+D:\My Folders\Upgrad\.Net_FSD_Upgrad\Assignment1_Csharp\obj\Debug\net10.0\Assignment1_Csharp.genruntimeconfig.cache
+D:\My Folders\Upgrad\.Net_FSD_Upgrad\Assignment1_Csharp\obj\Debug\net10.0\ref\Assignment1_Csharp.dll
