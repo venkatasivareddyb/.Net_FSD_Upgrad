@@ -1,0 +1,15 @@
+D:\My Folders\Upgrad\.Net_FSD_Upgrad\ConsoleApp1\bin\Debug\net10.0\Assignment_2_Basic.exe
+D:\My Folders\Upgrad\.Net_FSD_Upgrad\ConsoleApp1\bin\Debug\net10.0\Assignment_2_Basic.deps.json
+D:\My Folders\Upgrad\.Net_FSD_Upgrad\ConsoleApp1\bin\Debug\net10.0\Assignment_2_Basic.runtimeconfig.json
+D:\My Folders\Upgrad\.Net_FSD_Upgrad\ConsoleApp1\bin\Debug\net10.0\Assignment_2_Basic.dll
+D:\My Folders\Upgrad\.Net_FSD_Upgrad\ConsoleApp1\bin\Debug\net10.0\Assignment_2_Basic.pdb
+D:\My Folders\Upgrad\.Net_FSD_Upgrad\ConsoleApp1\obj\Debug\net10.0\Assignment_2_Basic.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Folders\Upgrad\.Net_FSD_Upgrad\ConsoleApp1\obj\Debug\net10.0\Assignment_2_Basic.AssemblyInfoInputs.cache
+D:\My Folders\Upgrad\.Net_FSD_Upgrad\ConsoleApp1\obj\Debug\net10.0\Assignment_2_Basic.AssemblyInfo.cs
+D:\My Folders\Upgrad\.Net_FSD_Upgrad\ConsoleApp1\obj\Debug\net10.0\Assignment_2_Basic.csproj.CoreCompileInputs.cache
+D:\My Folders\Upgrad\.Net_FSD_Upgrad\ConsoleApp1\obj\Debug\net10.0\Assignment_2_Basic.sourcelink.json
+D:\My Folders\Upgrad\.Net_FSD_Upgrad\ConsoleApp1\obj\Debug\net10.0\Assignment_2_Basic.dll
+D:\My Folders\Upgrad\.Net_FSD_Upgrad\ConsoleApp1\obj\Debug\net10.0\refint\Assignment_2_Basic.dll
+D:\My Folders\Upgrad\.Net_FSD_Upgrad\ConsoleApp1\obj\Debug\net10.0\Assignment_2_Basic.pdb
+D:\My Folders\Upgrad\.Net_FSD_Upgrad\ConsoleApp1\obj\Debug\net10.0\Assignment_2_Basic.genruntimeconfig.cache
+D:\My Folders\Upgrad\.Net_FSD_Upgrad\ConsoleApp1\obj\Debug\net10.0\ref\Assignment_2_Basic.dll

@@ -1,0 +1,15 @@
+D:\My Folders\Upgrad\.Net_FSD_Upgrad\Inheritance_polymorphism\bin\Debug\net10.0\Inheritance_polymorphism.exe
+D:\My Folders\Upgrad\.Net_FSD_Upgrad\Inheritance_polymorphism\bin\Debug\net10.0\Inheritance_polymorphism.deps.json
+D:\My Folders\Upgrad\.Net_FSD_Upgrad\Inheritance_polymorphism\bin\Debug\net10.0\Inheritance_polymorphism.runtimeconfig.json
+D:\My Folders\Upgrad\.Net_FSD_Upgrad\Inheritance_polymorphism\bin\Debug\net10.0\Inheritance_polymorphism.dll
+D:\My Folders\Upgrad\.Net_FSD_Upgrad\Inheritance_polymorphism\bin\Debug\net10.0\Inheritance_polymorphism.pdb
+D:\My Folders\Upgrad\.Net_FSD_Upgrad\Inheritance_polymorphism\obj\Debug\net10.0\Inheritance_polymorphism.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Folders\Upgrad\.Net_FSD_Upgrad\Inheritance_polymorphism\obj\Debug\net10.0\Inheritance_polymorphism.AssemblyInfoInputs.cache
+D:\My Folders\Upgrad\.Net_FSD_Upgrad\Inheritance_polymorphism\obj\Debug\net10.0\Inheritance_polymorphism.AssemblyInfo.cs
+D:\My Folders\Upgrad\.Net_FSD_Upgrad\Inheritance_polymorphism\obj\Debug\net10.0\Inheritance_polymorphism.csproj.CoreCompileInputs.cache
+D:\My Folders\Upgrad\.Net_FSD_Upgrad\Inheritance_polymorphism\obj\Debug\net10.0\Inheritance_polymorphism.sourcelink.json
+D:\My Folders\Upgrad\.Net_FSD_Upgrad\Inheritance_polymorphism\obj\Debug\net10.0\Inheritance_polymorphism.dll
+D:\My Folders\Upgrad\.Net_FSD_Upgrad\Inheritance_polymorphism\obj\Debug\net10.0\refint\Inheritance_polymorphism.dll
+D:\My Folders\Upgrad\.Net_FSD_Upgrad\Inheritance_polymorphism\obj\Debug\net10.0\Inheritance_polymorphism.pdb
+D:\My Folders\Upgrad\.Net_FSD_Upgrad\Inheritance_polymorphism\obj\Debug\net10.0\Inheritance_polymorphism.genruntimeconfig.cache
+D:\My Folders\Upgrad\.Net_FSD_Upgrad\Inheritance_polymorphism\obj\Debug\net10.0\ref\Inheritance_polymorphism.dll

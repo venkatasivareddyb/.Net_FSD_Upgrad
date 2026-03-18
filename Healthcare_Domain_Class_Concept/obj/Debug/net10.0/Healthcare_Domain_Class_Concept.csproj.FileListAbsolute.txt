@@ -1,0 +1,15 @@
+D:\My Folders\Upgrad\.Net_FSD_Upgrad\Healthcare_Domain_Class_Concept\bin\Debug\net10.0\Healthcare_Domain_Class_Concept.exe
+D:\My Folders\Upgrad\.Net_FSD_Upgrad\Healthcare_Domain_Class_Concept\bin\Debug\net10.0\Healthcare_Domain_Class_Concept.deps.json
+D:\My Folders\Upgrad\.Net_FSD_Upgrad\Healthcare_Domain_Class_Concept\bin\Debug\net10.0\Healthcare_Domain_Class_Concept.runtimeconfig.json
+D:\My Folders\Upgrad\.Net_FSD_Upgrad\Healthcare_Domain_Class_Concept\bin\Debug\net10.0\Healthcare_Domain_Class_Concept.dll
+D:\My Folders\Upgrad\.Net_FSD_Upgrad\Healthcare_Domain_Class_Concept\bin\Debug\net10.0\Healthcare_Domain_Class_Concept.pdb
+D:\My Folders\Upgrad\.Net_FSD_Upgrad\Healthcare_Domain_Class_Concept\obj\Debug\net10.0\Healthcare_Domain_Class_Concept.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Folders\Upgrad\.Net_FSD_Upgrad\Healthcare_Domain_Class_Concept\obj\Debug\net10.0\Healthcare_Domain_Class_Concept.AssemblyInfoInputs.cache
+D:\My Folders\Upgrad\.Net_FSD_Upgrad\Healthcare_Domain_Class_Concept\obj\Debug\net10.0\Healthcare_Domain_Class_Concept.AssemblyInfo.cs
+D:\My Folders\Upgrad\.Net_FSD_Upgrad\Healthcare_Domain_Class_Concept\obj\Debug\net10.0\Healthcare_Domain_Class_Concept.csproj.CoreCompileInputs.cache
+D:\My Folders\Upgrad\.Net_FSD_Upgrad\Healthcare_Domain_Class_Concept\obj\Debug\net10.0\Healthcare_Domain_Class_Concept.sourcelink.json
+D:\My Folders\Upgrad\.Net_FSD_Upgrad\Healthcare_Domain_Class_Concept\obj\Debug\net10.0\Healthcare_Domain_Class_Concept.dll
+D:\My Folders\Upgrad\.Net_FSD_Upgrad\Healthcare_Domain_Class_Concept\obj\Debug\net10.0\refint\Healthcare_Domain_Class_Concept.dll
+D:\My Folders\Upgrad\.Net_FSD_Upgrad\Healthcare_Domain_Class_Concept\obj\Debug\net10.0\Healthcare_Domain_Class_Concept.pdb
+D:\My Folders\Upgrad\.Net_FSD_Upgrad\Healthcare_Domain_Class_Concept\obj\Debug\net10.0\Healthcare_Domain_Class_Concept.genruntimeconfig.cache
+D:\My Folders\Upgrad\.Net_FSD_Upgrad\Healthcare_Domain_Class_Concept\obj\Debug\net10.0\ref\Healthcare_Domain_Class_Concept.dll

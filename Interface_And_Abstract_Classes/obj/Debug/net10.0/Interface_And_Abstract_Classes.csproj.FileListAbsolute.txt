@@ -1,0 +1,15 @@
+D:\My Folders\Upgrad\.Net_FSD_Upgrad\Interface_And_Abstract_Classes\bin\Debug\net10.0\Interface_And_Abstract_Classes.exe
+D:\My Folders\Upgrad\.Net_FSD_Upgrad\Interface_And_Abstract_Classes\bin\Debug\net10.0\Interface_And_Abstract_Classes.deps.json
+D:\My Folders\Upgrad\.Net_FSD_Upgrad\Interface_And_Abstract_Classes\bin\Debug\net10.0\Interface_And_Abstract_Classes.runtimeconfig.json
+D:\My Folders\Upgrad\.Net_FSD_Upgrad\Interface_And_Abstract_Classes\bin\Debug\net10.0\Interface_And_Abstract_Classes.dll
+D:\My Folders\Upgrad\.Net_FSD_Upgrad\Interface_And_Abstract_Classes\bin\Debug\net10.0\Interface_And_Abstract_Classes.pdb
+D:\My Folders\Upgrad\.Net_FSD_Upgrad\Interface_And_Abstract_Classes\obj\Debug\net10.0\Interface_And_Abstract_Classes.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Folders\Upgrad\.Net_FSD_Upgrad\Interface_And_Abstract_Classes\obj\Debug\net10.0\Interface_And_Abstract_Classes.AssemblyInfoInputs.cache
+D:\My Folders\Upgrad\.Net_FSD_Upgrad\Interface_And_Abstract_Classes\obj\Debug\net10.0\Interface_And_Abstract_Classes.AssemblyInfo.cs
+D:\My Folders\Upgrad\.Net_FSD_Upgrad\Interface_And_Abstract_Classes\obj\Debug\net10.0\Interface_And_Abstract_Classes.csproj.CoreCompileInputs.cache
+D:\My Folders\Upgrad\.Net_FSD_Upgrad\Interface_And_Abstract_Classes\obj\Debug\net10.0\Interface_And_Abstract_Classes.sourcelink.json
+D:\My Folders\Upgrad\.Net_FSD_Upgrad\Interface_And_Abstract_Classes\obj\Debug\net10.0\Interface_And_Abstract_Classes.dll
+D:\My Folders\Upgrad\.Net_FSD_Upgrad\Interface_And_Abstract_Classes\obj\Debug\net10.0\refint\Interface_And_Abstract_Classes.dll
+D:\My Folders\Upgrad\.Net_FSD_Upgrad\Interface_And_Abstract_Classes\obj\Debug\net10.0\Interface_And_Abstract_Classes.pdb
+D:\My Folders\Upgrad\.Net_FSD_Upgrad\Interface_And_Abstract_Classes\obj\Debug\net10.0\Interface_And_Abstract_Classes.genruntimeconfig.cache
+D:\My Folders\Upgrad\.Net_FSD_Upgrad\Interface_And_Abstract_Classes\obj\Debug\net10.0\ref\Interface_And_Abstract_Classes.dll
