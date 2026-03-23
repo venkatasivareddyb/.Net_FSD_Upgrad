@@ -1,3 +1,4 @@
 <Solution>
+  <Project Path="../C#_File_Handling/C#_File_Handling.csproj" />
   <Project Path="C#_Collections.csproj" />
 </Solution>
