@@ -1,0 +1,15 @@
+﻿@{
+    ViewData["Title"] = "Age Eligibility";
+    int age = (int)ViewData["Age"];
+}
+
+<h2>@ViewData["Title"]</h2>
+
+@if (age >= 18)
+{
+    <p>Eligible to vote</p>
+}
+else
+{
+    <p>Not eligible</p>
+}
