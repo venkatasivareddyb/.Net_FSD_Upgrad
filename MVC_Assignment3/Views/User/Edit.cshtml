@@ -1,0 +1,16 @@
+﻿@model MVC_Assignment3.ViewModel.UserViewModel
+
+<h2>Edit Profile</h2>
+<form asp-action="Edit" method="post">
+    <div>
+        <label asp-for="Name"></label>
+        <input asp-for="Name" />
+        <span asp-validation-for="Name"></span>
+    </div>
+    <div>
+        <label asp-for="Email"></label>
+        <input asp-for="Email" />
+        <span asp-validation-for="Email"></span>
+    </div>
+    <button type="submit">Save</button>
+</form>
