@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "yKWjDA+Twq8=",
+  "success": true,
+  "projectFilePath": "D:\\My Folders\\Upgrad\\.Net_FSD_Upgrad\\WebApplication1\\Asp.net_Core_Assignment_1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\venka\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.5\\microsoft.aspnetcore.openapi.10.0.5.nupkg.sha512",
+    "C:\\Users\\venka\\.nuget\\packages\\microsoft.openapi\\2.0.0\\microsoft.openapi.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
