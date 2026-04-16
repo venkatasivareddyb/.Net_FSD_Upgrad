@@ -1,0 +1,6 @@
+@PassengerService_HostAddress = http://localhost:5118
+
+GET {{PassengerService_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
